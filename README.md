@@ -1,3 +1,9 @@
+
+
+https://user-images.githubusercontent.com/80478590/147410319-f3c3f685-1333-413e-b3af-b61752f0dcd0.mp4
+
+This project was born to emulate the behaviour of AI in games like Clash of Clans, I decided to make myy own simple version of it.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
